@@ -92,3 +92,5 @@ if botao: # Caso o botão receba a ação do click
 # Rodar arquivo no Anaconda Prompt
 
 # PASSO A PASSO: abrir AnacondaPrompt > navegar até a pasta deste arquivo > executar 'streamlit run NomeDoArquivo.py' 
+
+# Proximo passo criar um executavel para o projeto
